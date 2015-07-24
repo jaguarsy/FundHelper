@@ -1,7 +1,6 @@
 package com.bitcage.fundhelper.Utils;
 
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 
 import com.bitcage.fundhelper.Models.Funder;
 import com.bitcage.fundhelper.Models.FunderDetail;
@@ -9,7 +8,6 @@ import com.bitcage.fundhelper.Models.FunderDetail;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.InputStream;
 import java.util.ArrayList;
 
 /**
